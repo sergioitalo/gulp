@@ -1,0 +1,1 @@
+let soma=(o,a)=>o+a;export{soma};
